@@ -45,7 +45,7 @@ Future improvements may include adding responsive design to the project and link
 
 ## Author
 
-- Website - Mono Aaron(https://www.your-site.com)
+- Website - Mono Aaron
 - Frontend Mentor - [@Cas_m3ll0](https://www.frontendmentor.io/profile/Cas_m3ll0)
 
 
